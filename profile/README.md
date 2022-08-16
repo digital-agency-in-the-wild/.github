@@ -1,1 +1,2 @@
-# Hi! We are Digital Agency in the wild
+# どうも！野生のデジタル庁です！
+
